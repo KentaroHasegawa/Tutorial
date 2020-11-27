@@ -1,6 +1,6 @@
 int Tutorial_01( )
 {
-    print("Hello World")
+    print("Hello World");
 }
 
 
